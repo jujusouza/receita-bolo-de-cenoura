@@ -1,4 +1,4 @@
-<img src=".img/bolo.jpg">
+<img src="img/bolo.jpg">
 
 # Receita de bolo de cenoura
 
